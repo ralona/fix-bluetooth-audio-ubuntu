@@ -19,7 +19,7 @@ To configure the `toggle-audio-profile.sh` script as a custom keyboard shortcut 
 3. Click the "+" button at the bottom left to add a new shortcut.
 4. In the popup dialog, enter the following details:
    - Name: Enter a descriptive name for the keyboard shortcut.
-   - Command: Specify the absolute full path of the `toggle-audio-profile.sh` script. For example: `/path/to/scripts/toggle-audio-profile.sh`.
+   - Command: Specify the absolute full path of the `toggle-audio-profile.sh` script. For example: `sh /path/to/fix-bluetooth-audio-ubuntu/toggle-audio-profile.sh`.
    - Shortcut: Press the desired key combination you want to use. For example, you can use `Ctrl + Alt + A`.
 5. Click "Apply" to save the keyboard shortcut configuration.
 
